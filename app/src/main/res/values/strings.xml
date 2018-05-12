@@ -1,0 +1,4 @@
+<resources>
+  <string name="app_name">Navigator Test</string>
+  <string name="access_token" translatable="false">pk.eyJ1IjoiYWRhaWx0b25yaWJlaXJvIiwiYSI6ImNqZjE2ODg3bzBhd3oyd28wOWlqa2pmNTEifQ.zyt3ML7lT5yZwOUkePPpng</string>
+</resources>
